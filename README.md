@@ -1,8 +1,7 @@
 # DPHF
 
 PyTorch model implementation accompanying **DPHF: Compact Hierarchical Content–Behavior Learning for Robotic Network Intrusion Detection**.
-
-Authors: Ting Su, Yutian Feng, Jingyi Xu, and Jiazhong Lu.
+<img width="2003" height="799" alt="0f4316365eb0c3e00ee58f272a79c2ba" src="https://github.com/user-attachments/assets/1ee18d00-cf3e-42fa-a044-df5456b82d47" />
 
 ## Scope
 
