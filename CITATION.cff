@@ -1,0 +1,15 @@
+cff-version: 1.2.0
+message: "Please cite this software when using the DPHF implementation. Publication metadata will be added when available."
+type: software
+title: "DPHF: Compact Hierarchical Content–Behavior Learning for Robotic Network Intrusion Detection"
+version: 0.1.0
+authors:
+  - family-names: Su
+    given-names: Ting
+  - family-names: Feng
+    given-names: Yutian
+  - family-names: Xu
+    given-names: Jingyi
+  - family-names: Lu
+    given-names: Jiazhong
+abstract: "Discrete-byte packet-hierarchical content–behavior fusion for robotic network intrusion detection."
