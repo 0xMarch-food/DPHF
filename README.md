@@ -3,9 +3,6 @@
 PyTorch model implementation accompanying **DPHF: Compact Hierarchical Content–Behavior Learning for Robotic Network Intrusion Detection**.
 <img width="2003" height="799" alt="0f4316365eb0c3e00ee58f272a79c2ba" src="https://github.com/user-attachments/assets/1ee18d00-cf3e-42fa-a044-df5456b82d47" />
 
-## Scope
-
-This repository provides the DPHF architecture, causal input-feature construction and model variants. It does not include training/evaluation pipelines, dataset splits, raw or processed traffic, experiment result tables or pretrained checkpoints. These files alone do not reproduce the complete paper experiments. No journal acceptance or publication DOI is claimed.
 
 ## Datasets
 
